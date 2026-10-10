@@ -123,4 +123,4 @@ Built while following Siddhardhan's loan status prediction tutorial on YouTube, 
 
 ## Author
 
-<your name> - [LinkedIn](<your-linkedin-url>)
+Hisham Shariq Abdullah - [LinkedIn](https://www.linkedin.com/in/hisham-shariq-abdullah)
